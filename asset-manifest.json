@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/movieminions/static/css/main.022bc10b.chunk.css",
+    "main.js": "/movieminions/static/js/main.eb944f4c.chunk.js",
+    "main.js.map": "/movieminions/static/js/main.eb944f4c.chunk.js.map",
+    "runtime-main.js": "/movieminions/static/js/runtime-main.92c3d03d.js",
+    "runtime-main.js.map": "/movieminions/static/js/runtime-main.92c3d03d.js.map",
+    "static/js/2.4e7e2f72.chunk.js": "/movieminions/static/js/2.4e7e2f72.chunk.js",
+    "static/js/2.4e7e2f72.chunk.js.map": "/movieminions/static/js/2.4e7e2f72.chunk.js.map",
+    "static/js/3.c80dd75b.chunk.js": "/movieminions/static/js/3.c80dd75b.chunk.js",
+    "static/js/3.c80dd75b.chunk.js.map": "/movieminions/static/js/3.c80dd75b.chunk.js.map",
+    "index.html": "/movieminions/index.html",
+    "static/css/main.022bc10b.chunk.css.map": "/movieminions/static/css/main.022bc10b.chunk.css.map",
+    "static/js/2.4e7e2f72.chunk.js.LICENSE.txt": "/movieminions/static/js/2.4e7e2f72.chunk.js.LICENSE.txt",
+    "static/media/logo1.4330a9ae.png": "/movieminions/static/media/logo1.4330a9ae.png",
+    "static/media/logo2.4f0efecc.png": "/movieminions/static/media/logo2.4f0efecc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92c3d03d.js",
+    "static/js/2.4e7e2f72.chunk.js",
+    "static/css/main.022bc10b.chunk.css",
+    "static/js/main.eb944f4c.chunk.js"
+  ]
+}
